@@ -4,12 +4,12 @@ Electronics & Communication Engineering Student at PES University.
 
 Interested in:
 - Software Development
-- AI & Robotics
+- Cybersecurity
 - IoT Systems
 - Cloud Computing
 
 ## Skills
-Python | C++ | Dart | Flutter | SQL | Git
+Python | Dart | Flutter | SQL | Git
 
 ## Projects
 - Flutter BMI Calculator
@@ -18,7 +18,7 @@ Python | C++ | Dart | Flutter | SQL | Git
 - Keystroke Security System
 
 ## Currently Learning
-Data Structures & Algorithms
+Cybersecurity Defense Analyst 
 
 ## Connect with me
 LinkedIn: https://linkedin.com/
