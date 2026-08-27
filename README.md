@@ -19,12 +19,16 @@ I enjoy working on hands-on projects involving **Python, network security, secur
 ## Skills
 **Programming:**
 Python | C | SQL | Dart
+
 **Cybersecurity & Networking:**
 Network Security | Security Monitoring | Threat Analysis | Wireshark | TCP/IP | OSI Model | IAM | DNS | DHCP | Routing & Switching | HTTP/HTTPS | Network Troubleshooting
+
 **Tools & Technologies:**
 Git | GitHub | VS Code | Scapy | MATLAB | Simulink
+
 **Embedded & IoT:**
 Arduino | ESP32 | GPS | GSM
+
 **Quantum Computing:**
 Qiskit | Qiskit Aer | BB84 Quantum Key Distribution
 
