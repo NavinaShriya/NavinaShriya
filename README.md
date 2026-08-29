@@ -34,6 +34,17 @@ Qiskit | Qiskit Aer | BB84 Quantum Key Distribution
 
 ## Featured Projects
 
+### Enterprise Authentication Threat Detection Platform
+
+**Python | Linux | SSH | Detection Engineering | MITRE ATT&CK | JSON** 
+*Built a Python-based authentication threat detection platform for analyzing Linux SSH authentication logs and identifying suspicious activity.
+* Implemented SSH brute-force, password-spraying, and failure-to-success correlation using configurable thresholds and time-window analysis.
+* Developed centralized severity classification and MITRE ATT&CK mapping for authentication threats.
+* Generated structured JSON security alerts, analyst investigation guidance, and automated Markdown incident reports.
+* Implemented configurable detection rules, command-line execution, synthetic security-event fixtures, and false-positive testing.
+* Built an automated test suite with 18 passing tests covering parsing, detection, severity, configuration, reporting, investigation, and end-to-end pipeline behavior.
+
+
 ### Network Traffic Analyzer & Security Monitor
 
 **Python | Scapy | Network Security | JSON**
@@ -46,7 +57,6 @@ A Python-based network traffic analysis and security monitoring project featurin
 * Configurable detection thresholds
 * JSON-based security-event logging
 * Automated security tests
-🔗 [View Project](https://github.com/NavinaShriya/network-traffic-analyzer)
 
 ### Keystroke Behavioral Authentication System
 
