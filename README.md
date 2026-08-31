@@ -154,8 +154,8 @@ I'm particularly interested in opportunities where I can work on real-world secu
 ---
 
 ## Connect With Me
-LinkedIn - https://www.linkedin.com/in/navina-shriya-k-s-991805297/ 
-Email - aishioff8340@gmail.com
+LinkedIn 
+Email 
 
 ---
 Thanks for visiting my profile!
