@@ -1,101 +1,163 @@
-# Hi I'm Navina Shriya
-Electronics & Communication Engineering student at **PES University**
-Minor in **Computer Science**
+# Hi I'm Navina Shriya KS
+
+Electronics & Communication Engineering student at PES University, Bengaluru  
+Aspiring Cybersecurity Engineer | Security Analyst | Detection Engineering  
+Interested in Cybersecurity, Network Security, IoT Security & Secure Systems
+
+---
 
 ## About Me
 
-I'm an ECE student interested in building technology at the intersection of **Cybersecurity, Software Development, AI & Automation, Networking, and IoT**.
-I enjoy working on hands-on projects involving **Python, network security, security monitoring, and intelligent systems**, while continuously developing my cybersecurity and software skills.
+I'm an ECE undergraduate with a minor in Computer Science, building hands-on experience in cybersecurity, networking, Linux, Python, and security monitoring.
 
-## Interests
+My current focus is on developing practical security solutions involving:
 
-* Cybersecurity & Network Security
-* AI & Automation
-* Software Development
-* Computer Networks
-* Cloud Computing
-* IoT & Embedded Systems
+- Threat Detection & Authentication Security
+- Network Security & Traffic Analysis
+- Security Monitoring & Incident Investigation
+- MITRE ATT&CK & Detection Engineering
+- Linux Security
+- Security Automation with Python
+- IoT & Embedded Security
+- Quantum Communication & Secure Networking
 
-## Skills
-**Programming:**
-Python | C | SQL | Dart
+I enjoy turning cybersecurity concepts into working systems and continuously improving my ability to analyze, detect, and respond to security threats.
 
-**Cybersecurity & Networking:**
-Network Security | Security Monitoring | Threat Analysis | Wireshark | TCP/IP | OSI Model | IAM | DNS | DHCP | Routing & Switching | HTTP/HTTPS | Network Troubleshooting
+---
 
-**Tools & Technologies:**
-Git | GitHub | VS Code | Scapy | MATLAB | Simulink
-
-**Embedded & IoT:**
-Arduino | ESP32 | GPS | GSM
-
-**Quantum Computing:**
-Qiskit | Qiskit Aer | BB84 Quantum Key Distribution
-
-## Featured Projects
+## Featured Cybersecurity Projects
 
 ### Enterprise Authentication Threat Detection Platform
 
-**Python | Linux | SSH | Detection Engineering | MITRE ATT&CK | JSON** 
-*Built a Python-based authentication threat detection platform for analyzing Linux SSH authentication logs and identifying suspicious activity.
-* Implemented SSH brute-force, password-spraying, and failure-to-success correlation using configurable thresholds and time-window analysis.
-* Developed centralized severity classification and MITRE ATT&CK mapping for authentication threats.
-* Generated structured JSON security alerts, analyst investigation guidance, and automated Markdown incident reports.
-* Implemented configurable detection rules, command-line execution, synthetic security-event fixtures, and false-positive testing.
-* Built an automated test suite with 18 passing tests covering parsing, detection, severity, configuration, reporting, investigation, and end-to-end pipeline behavior.
+Python-based Linux SSH threat detection platform designed to identify:
 
+- Brute-force attacks
+- Password spraying
+- Authentication failure patterns
+- Failure-to-success login attacks
+
+Built with configurable detection rules, MITRE ATT&CK mapping, automated incident reporting, investigation guidance, and automated security tests.
+
+**Tech:** Python · Linux · SSH · MITRE ATT&CK · Git
+
+---
 
 ### Network Traffic Analyzer & Security Monitor
 
-**Python | Scapy | Network Security | JSON**
-A Python-based network traffic analysis and security monitoring project featuring:
-* Live network packet capture and protocol analysis
-* TCP, UDP, ICMP and ARP traffic analysis
-* TCP SYN port-scan detection
-* SYN-flood detection
-* Suspicious DNS traffic detection
-* Configurable detection thresholds
-* JSON-based security-event logging
-* Automated security tests
+Python-based network security monitoring tool for analyzing live packet traffic and identifying suspicious network activity.
+
+Features include:
+
+- TCP/IP, UDP, ICMP & ARP analysis
+- TCP SYN-port scanning detection
+- SYN-flood detection
+- Suspicious DNS traffic detection
+- Configurable security thresholds
+- Automated security testing
+
+**Tech:** Python · Scapy · Network Security · Packet Analysis
+
+---
 
 ### Keystroke Behavioral Authentication System
 
-**Python | Behavioral Biometrics | Cybersecurity**
-* Behavioral authentication using keystroke dynamics
-* Hold-time and flight-time feature extraction
-* User behavioral data processing
-* Dataset generation for future machine-learning applications
+Behavioral biometric authentication system using keystroke dynamics to establish individual typing profiles.
 
-### IoT Emergency Safety Device
+The system analyzes:
 
-**Arduino | ESP32 | GPS | GSM**
-* Real-time GPS location transmission
-* GSM-based automated SMS alerts
-* IoT-based emergency response system
+- Key hold time
+- Flight time
+- Typing speed
+- Typing-time variation
+- Behavioral typing patterns
 
-### OS Scheduling Simulator
+New typing attempts are compared against stored behavioral profiles to classify users as authenticated or not authenticated.
 
-**Python**
-Simulation-based project exploring operating-system scheduling concepts and algorithms.
+**Tech:** Python · Tkinter · Behavioral Biometrics · CSV · Data Analysis
 
-## Research
+---
 
-### Quantum Communication & Networking — Ongoing
-Working on secure quantum communication using **Python, MATLAB, Qiskit and BB84 Quantum Key Distribution**.
-Current areas of exploration include secure signal transmission, quantum networking and Doppler compensation for high-speed wireless communication.
+###  IoT Emergency Safety Device
 
-## Currently Learning
-* Cisco Junior Cybersecurity Analyst Career Path — **In Progress**
-* Cisco Cybersecurity Defense Analyst Career Path — **In Progress**
-* Cybersecurity & Network Defense
-* AI applications in cybersecurity and automation
+Arduino/ESP32-based emergency response system designed to transmit live GPS coordinates during emergency situations.
 
-## Certifications
-* Cisco Networking Academy — **Introduction to Cybersecurity**
-* Tata Group — **Cybersecurity Analyst Job Simulation (Forage)**
+Integrated GSM communication for automated emergency messaging and real-time alert generation.
+
+**Tech:** Arduino · ESP32 · GPS · GSM · IoT
+
+---
+
+##  Research
+
+### Quantum Communication & Networking Research
+
+Currently exploring secure quantum communication and networking concepts, including:
+
+- BB84 Quantum Key Distribution
+- Quantum communication protocols
+- Quantum networking models
+- QKD simulation
+- Microwave-photonic integration
+- Secure next-generation communication systems
+
+**Tech:** Python · MATLAB · Qiskit · Simulink
+
+---
+
+##  Technical Skills
+
+### Cybersecurity
+`Network Security` `Security Monitoring` `Threat Detection`  
+`Detection Engineering` `Incident Investigation` `MITRE ATT&CK`  
+`IAM` `Wireshark` `Packet Analysis`
+
+### Networking
+`TCP/IP` `DNS` `DHCP` `HTTP/HTTPS`  
+`Network Troubleshooting` `Packet Capture` `Traffic Analysis`
+
+### Programming
+`Python` `SQL` `Dart`
+
+### Security & Development Tools
+`Linux` `Git` `GitHub` `VS Code` `Wireshark` `Scapy`
+
+### IoT & Embedded Systems
+`Arduino` `ESP32` `GPS` `GSM`
+
+### Quantum Computing
+`Qiskit` `BB84` `QKD` `MATLAB` `Simulink`
+
+---
+
+##  Certifications & Learning
+
+- Cybersecurity Analyst Job Simulation — Tata Group / Forage
+- AI Security & Governance Certification
+- Junior Cybersecurity Analyst Career Path — Cisco Networking Academy
+- Cybersecurity Defense Career Path — Cisco Networking Academy
+
+Currently strengthening my skills in:
+
+`SOC Operations` `Threat Detection` `Incident Response`  
+`Network Security` `Detection Engineering` `Security Automation`
+
+---
+
+## Career Focus
+
+I'm currently focused on building a career in:
+
+**Cybersecurity Engineering · Security Analysis · SOC · Threat Detection · Network Security · Detection Engineering**
+
+I'm particularly interested in opportunities where I can work on real-world security problems and continue developing strong hands-on security engineering skills.
+
+---
 
 ## Connect With Me
+LinkedIn  
+Email
 
-* 💼 [LinkedIn](https://linkedin.com/in/navina-shriya-k-s-991805297)
-* 📧 [aishioff8340@gmail.com](mailto:aishioff8340@gmail.com)
-* 💻 [GitHub](https://github.com/NavinaShriya)
+---
+Thanks for visiting my profile!
+
+I'm always learning, building, and improving my cybersecurity skills.
