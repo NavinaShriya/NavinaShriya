@@ -130,7 +130,7 @@ Currently exploring secure quantum communication and networking concepts, includ
 ---
 
 ##  Certifications & Learning
-- Security engineer Learning Path - tryHackMe 
+- Security engineer  - tryHackMe 
 - Cybersecurity Analyst Job Simulation — Tata Group / Forage
 - AI Security & Governance Certification
 - Junior Cybersecurity Analyst Career Path — Cisco Networking Academy
