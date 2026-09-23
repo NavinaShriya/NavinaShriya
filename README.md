@@ -130,7 +130,7 @@ Currently exploring secure quantum communication and networking concepts, includ
 ---
 
 ##  Certifications & Learning
-
+- Security engineer Learning Path - tryHackMe 
 - Cybersecurity Analyst Job Simulation — Tata Group / Forage
 - AI Security & Governance Certification
 - Junior Cybersecurity Analyst Career Path — Cisco Networking Academy
@@ -138,7 +138,7 @@ Currently exploring secure quantum communication and networking concepts, includ
 
 Currently strengthening my skills in:
 
-`SOC Operations` `Threat Detection` `Incident Response`  
+`SOC Operations` `Threat Detection` `Incident Response`  `Security Engineer`
 `Network Security` `Detection Engineering` `Security Automation`
 
 ---
